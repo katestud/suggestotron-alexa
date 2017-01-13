@@ -1,0 +1,8 @@
+GetVenuesIntent i'm in the mood for {beer | Category}
+GetVenuesIntent what's a good place for {wine | Category}
+GetVenuesIntent where should i go for {meat | Category}
+GetVenuesIntent where i should go for {beer | Category}
+GetVenuesIntent {beer | Category}
+
+GetDifferentVenueIntent no give me a different option
+GetDifferentVenueIntent try again

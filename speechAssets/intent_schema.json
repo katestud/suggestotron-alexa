@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "GetVenuesIntent",
+      "slots": [
+        {
+          "name": "Category",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "GetDifferentVenueIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
